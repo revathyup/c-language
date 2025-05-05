@@ -36,3 +36,5 @@ Details of the RISC-V 32i Instruction Encoding: [Download the PDF](https://githu
 ```
 All rights reserved. For more information contact support@pyjamabrah.com
 ```
+
+
